@@ -6,4 +6,7 @@ I'm a technologist, a DevOps fanatic, and speaker.  I currently work as a Staff 
 
 ## Find me on the internet
 - [Twitter](https://twitter.com/olearycrew)
-- [Web](https://boleary.dev)
+- [LinkedIn](https://www.linkedin.com/in/olearycrew/)
+- [Twitch](https://www.twitch.tv/olearycrew)
+- [Polywork](https://www.polywork.com/brendan)
+- [My website & blog](https://boleary.dev)
