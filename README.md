@@ -1,4 +1,4 @@
-# Hi, I'm Brendan 🧑‍💻
+# Hi, I'm Brendan 👨‍💻
 
 I'm a technologist, a DevOps fanatic, and speaker.  I currently work as a Staff Developer Evangelist for GitLab.
 
