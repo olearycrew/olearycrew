@@ -17,6 +17,8 @@ Below find some GitLab repos that I reference a lot
 | [dotfiles](https://gitlab.com/brendan/dotfiles)        | My dotfiles I use on my Macs |
 | [brendan-demo](https://gitlab.com/brendan-demo)        | Group I use to store lots of demo code - old and new |
 
+## Speaking
+I love speaking and connecting with folks at conferences!  You can find my [speaker rider here](https://boleary.dev/rider/), my [previous talks here](https://boleary.dev/talks/) and my [current abstracts here](https://cfps.dev/u/brendan)
 
 ## Find me on the internet
 - [Twitter](https://twitter.com/olearycrew)
