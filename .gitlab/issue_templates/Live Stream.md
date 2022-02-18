@@ -15,3 +15,5 @@
 - [ ] Send a Tweet like [this one](https://twitter.com/intent/tweet?text=I%27m%20going%20live%20on%20Twitch%21%20Join%20me%20for%20some%20Coding%20with%20the%20Crew%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%0A%0Ahttps%3A//brendan.fyi/twitch) with link to https://brendan.fyi/twitch
 - [ ] Start the 5 minute timer
 - [ ] At end of timer, start the show!
+
+/label ~"Video/Live Stream Idea" 
