@@ -22,6 +22,7 @@ I love speaking and connecting with folks at conferences!  You can find my [spea
 
 ## Find me on the internet
 - [Twitter](https://twitter.com/olearycrew)
+- <a rel="me" href="https://mastodon.social/@olearycrew">Mastodon</a>
 - [LinkedIn](https://www.linkedin.com/in/olearycrew/)
 - [Twitch](https://www.twitch.tv/olearycrew)
 - [Polywork](https://www.polywork.com/brendan)
