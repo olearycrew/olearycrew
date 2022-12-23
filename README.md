@@ -1,6 +1,6 @@
 # Hi, I'm Brendan 👨‍💻
 
-I'm a technologist, a DevOps fanatic, and speaker.  I currently work as Head of Community for [ProjectDiscovery](https://projectdiscovery.io).  To learn more about me, read my [personal README.md](https://boleary.dev/readme) or my [website](https://boleary.dev).
+I'm a technologist, speaker, and life-long learner.  I currently work as Head of Community for [ProjectDiscovery](https://projectdiscovery.io).  To learn more about me, read my [personal README.md](https://boleary.dev/readme) or my [website](https://boleary.dev).
 
 > Tip: [Add your own user profile README](https://docs.gitlab.com/ee/user/profile/#user-profile-readme) 💥 
 
