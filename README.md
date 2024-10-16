@@ -5,12 +5,10 @@ I'm a technologist, speaker, and life-long learner.  I currently work as Head of
 > Tip: [Add your own user profile README](https://docs.gitlab.com/ee/user/profile/#user-profile-readme) 💥 
 
 ## Find me on the internet
+- [My website & blog](https://boleary.dev)
 - [Twitter](https://twitter.com/olearycrew)
 - <a rel="me" href="https://mastodon.social/@olearycrew">Mastodon</a>
 - [LinkedIn](https://www.linkedin.com/in/olearycrew/)
-- [Twitch](https://www.twitch.tv/olearycrew)
-- [Polywork](https://www.polywork.com/brendan)
-- [My website & blog](https://boleary.dev)
 
 ## Repos
 Below find some GitLab repos that I reference a lot
