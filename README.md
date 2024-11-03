@@ -1,14 +1,21 @@
-# Hi, I'm Brendan 👨‍💻
+# Hi, I'm Brendan 👋🏻
 
-I'm a technologist, speaker, and life-long learner.  I currently work as Head of Community for [ProjectDiscovery](https://projectdiscovery.io).  To learn more about me, read my [personal README.md](https://boleary.dev/readme) or my [website](https://boleary.dev).
+I'm a technologist and speaker <br/>
+I am also a 1x engineer 👨‍💻 and a 4x dad 👦🏻 👧🏼 👦🏻 👧🏼
 
-> Tip: [Add your own user profile README](https://docs.gitlab.com/ee/user/profile/#user-profile-readme) 💥 
+[![Web Badge](https://img.shields.io/badge/-boleary.dev-241773?style=for-the-badge&label=web&link=https%3A%2F%2Fboleary.dev)](https://boleary.dev)
+[![Blueksy](https://img.shields.io/badge/-%40brendan.fyi-%230285FF?style=for-the-badge&logo=bluesky&logoColor=white&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fbrendan.fyi)](https://bsky.app/profile/brendan.fyi)
+[![Linkedin Badge](https://img.shields.io/badge/-olearycrew-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Folearycrew%2F)](https://www.linkedin.com/in/olearycrew/)
+[![GitLab](https://img.shields.io/badge/-%40brendan-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fbrendan.fyi)](https://gitlab.com/brendan)
+
+To learn more about me, read my [personal README.md](https://boleary.dev/readme) or my [website](https://boleary.dev).
 
 ## Find me on the internet
 - [My website & blog](https://boleary.dev)
+- [Blueksy](https://bsky.app/profile/brendan.fyi)
+- [LinkedIn](https://www.linkedin.com/in/olearycrew/)
 - [Twitter](https://twitter.com/olearycrew)
 - <a rel="me" href="https://mastodon.social/@olearycrew">Mastodon</a>
-- [LinkedIn](https://www.linkedin.com/in/olearycrew/)
 
 ## Repos
 Below find some GitLab repos that I reference a lot
