@@ -1,5 +1,6 @@
 # Hi, I'm Brendan 👋🏻
 
+VP, Developer Relations at [Prefect](https://prefect.io)
 I'm a technologist and speaker <br/>
 I am also a 1x engineer 👨‍💻 and a 4x dad 👦🏻 👧🏼 👦🏻 👧🏼
 
